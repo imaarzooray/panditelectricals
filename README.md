@@ -1,16 +1,68 @@
-# React + Vite
+# Pandit Electricals
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Executive Summary
+Pandit Electricals is a web application designed to provide a professional digital interface for showcasing electrical services with high availability, modern UI/UX, and responsive delivery. The application is developed as a React SPA powered by Vite and styled with Tailwind CSS to enable scalable UI components and optimized performance.
 
-Currently, two official plugins are available:
+## Repository Scope
+This repository delivers:
+- A modular front-end application built with React.js and Vite  
+- Tailwind CSS for utility-first styling and responsive design  
+- Asset and component organization aligned with modern front-end architecture  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The objective is to position Pandit Electricals as a credible online presence for prospective customers and internal stakeholders.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technology Stack
+| Layer | Technology |
+|-------|------------|
+| UI Framework | React.js |
+| Build Tool | Vite |
+| Styling | Tailwind CSS |
+| Linter | ESLint |
+| Package Manager | npm |
+| Deployment Target | Static Site Hosting |
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- Component-driven React architecture  
+- Utility-first styling with Tailwind CSS  
+- Vite optimized for fast development and build performance  
+- Mobile-first and responsive web design  
+- Structured for scalability and future enhancements  
+
+---
+
+## Getting Started
+
+### Prerequisites
+Ensure the following tools are installed:
+- Node.js (v14+)
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/imaarzooray/panditElectricals.git
+cd panditElectricals
+npm install
+
+
+
+panditElectricals/
+├── public/                     # Static assets and HTML template
+├── src/                        # Source code
+│   ├── assets/                 # Images & icons
+│   ├── components/             # Reusable UI components
+│   ├── pages/                  # Application views
+│   ├── App.jsx                 # Root application component
+│   └── main.jsx                # Entry point
+├── .gitignore                  # Ignored files for git
+├── package.json                # npm manifest and scripts
+├── tailwind.config.js          # Tailwind CSS configuration
+├── vite.config.js              # Vite build configuration
+└── README.md                  # Documentation (this file)
+
+
+
