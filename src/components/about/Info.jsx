@@ -1,5 +1,4 @@
 import InfoCont from "./InfoCont.jsx"
-import shop from "E:/Business/PanditElectricals/code/panditElectricalsWebApp/frontend/src/assets/shop.jpg"
 
 function Info({ miniHead }) {
     return (
@@ -27,7 +26,7 @@ panditelect1096@gmail.com" />
                     </div>
                 </div>
                 <div className="detailsInfo">
-                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294918/shop_ybgrde.jpg" alt="" srcset="" />
+                        {/* <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294918/shop_ybgrde.jpg" alt="" srcset="" /> */}
                     
                 </div>
             </div>

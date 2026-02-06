@@ -39,28 +39,28 @@ function LowerAbtf() {
 
 
                     <span className="brands">
-                        <img src={chilisLogo} alt="Chili's" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294960/chilislogo_iwsze2.png" alt="Chili's" />
                     </span>
                     <span className="brands">
-                        <img src={mcdLogo} alt="McDonald's" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294961/mcd_dujpdz.png" alt="McDonald's" />
                     </span>
                     <span className="brands">
-                        <img src={kfcLogo} alt="KFC" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294961/kfc_h0zkyq.jpg" alt="KFC" />
                     </span>
                     <span className="brands">
-                        <img src={blinkitLogo} alt="Blinkit" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294960/blinkit_m3q7hh.png" alt="Blinkit" />
                     </span>
                     <span className="brands">
-                        <img src={burgerKingsLogo} alt="Burger King" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294960/burgerKings_m9cg3o.png" alt="Burger King" />
                     </span>
                     <span className="brands">
-                        <img src={zeptoLogo} alt="Zepto" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294963/zepto_wtlxcc.png" alt="Zepto" />
                     </span>
                     <span className="brands">
-                        <img src={pwLogo} alt="PW" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294962/pw_t1okyp.png" alt="PW" />
                     </span>
                     <span className="brands">
-                        <img src={truepowerLogo} alt="Truepower" />
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294962/truepower_pmh6tw.png" alt="Truepower" />
                     </span>
                 </div>
                 <div className="rollerRight" onClick={() => slide("right")}>
