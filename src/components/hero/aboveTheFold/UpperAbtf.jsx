@@ -1,5 +1,5 @@
-import LeftAbtf from "./leftAbtf"
-import RightAbtf from "./rightAbtf"
+import LeftAbtf from "./LeftAbtf.jsx"
+import RightAbtf from "./RightAbtf.jsx"
 
 
 function UpperAbtf(){

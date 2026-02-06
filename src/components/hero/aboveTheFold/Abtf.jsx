@@ -1,11 +1,10 @@
-import About from "../../about/About"
-import Contact from "../../contact/Contact"
-import Divider from "../../divider/Divider"
-import Footr from "../../footer/Footr"
-import Services from "../../services/Services"
-import ClientTrust from "../../trust/ClientTrust"
-import LowerAbtf from "./lowerAbtf"
-import UpperAbtf from "./upperAbtf"
+import About from "../../about/About.jsx"
+import Contact from "../../contact/Contact.jsx"
+
+import Services from "../../services/Services.jsx"
+import ClientTrust from "../../trust/ClientTrust.jsx"
+import LowerAbtf from "./LowerAbtf.jsx"
+import UpperAbtf from "./UpperAbtf.jsx"
 
 function Abtf() {
     return (

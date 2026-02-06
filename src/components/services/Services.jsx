@@ -1,6 +1,6 @@
-import Header from "./Header"
-import ServicesBox from "./ServicesBox"
-import Cta from "../hero/navbar/Cta"
+import Header from "./Header.jsx"
+import ServicesBox from "./ServicesBox.jsx"
+import Cta from "../hero/navbar/Cta.jsx"
 function Services() {
 
  const services = [

@@ -1,4 +1,4 @@
-import Cta from "../navbar/Cta"
+import Cta from "../navbar/Cta.jsx"
 
 function Ctas(){
     return(
