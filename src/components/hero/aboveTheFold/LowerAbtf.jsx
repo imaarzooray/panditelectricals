@@ -1,11 +1,4 @@
-import chilisLogo from "../../../assets/brands/chilislogo.png";
-import mcdLogo from "../../../assets/brands/mcd.png";
-import kfcLogo from "../../../assets/brands/kfc.jpg";
-import blinkitLogo from "../../../assets/brands/blinkit.png";
-import burgerKingsLogo from "../../../assets/brands/burgerKings.png";
-import zeptoLogo from "../../../assets/brands/zepto.png";
-import pwLogo from "../../../assets/brands/pw.png";
-import truepowerLogo from "../../../assets/brands/truepower.png";
+
 import { useRef } from "react";
 
 function LowerAbtf() {
