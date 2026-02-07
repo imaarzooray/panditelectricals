@@ -72,7 +72,7 @@ function Contact() {
                         <li>
                             <span className="icon">
                                 <i className="ri-mail-line"></i>
-                            </span><span className="det">  info@panditelectricals.com
+                            </span><span className="det">  contact@panditelectricals.com
                             </span>
                         </li>
 

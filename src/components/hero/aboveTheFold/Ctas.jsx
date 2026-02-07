@@ -11,7 +11,7 @@ fontColor="white" width="200px" />
 <span className="ter"></span>
 
 <a className="downloadBrochure"
-href="https://res.cloudinary.com/aarzooray/image/upload/pandit_electricals_booklet_jkm_y1cwq6.pdf"
+href="./src/assets/pandit_electricals_booklet_jkm.pdf"
   download="Pandit_Electricals_Brochure.pdf"
   
 >

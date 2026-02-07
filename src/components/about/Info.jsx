@@ -45,7 +45,7 @@ panditelect1096@gmail.com" />
                     </div>
                     <div className="leftDetailsInfo">
 
-                        <InfoCont iconClass="ri-user-line" label="Name " informations="Hemant Pandit" />
+                        <InfoCont iconClass="ri-user-line" label="Name " informations="Hemant Kumar" />
                         <InfoCont iconClass="ri-settings-5-line" label="Role " informations="Founder & Technical Head" />
 
                         <InfoCont iconClass="ri-phone-line" label="Phone " informations="+91 9871760259"
