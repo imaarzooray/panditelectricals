@@ -14,7 +14,7 @@ function About()
              />
             </div>
             <div className="info">
-                <Info miniHead="Business Information"/>
+                <Info miniHead="BUSINESS INFORMATION"/>
             </div>
         
 

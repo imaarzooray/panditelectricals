@@ -135,7 +135,7 @@ function Contact() {
                         <Input placeHolder="Phone Number" type="text" />
                         <Input placeHolder="Email" type="email" />
                         <Input placeHolder="Service Type" type="text" />
-                        <textarea name="" id="" resize="none"></textarea>
+                        <textarea name="" id="" resize="none" placeholder="Describe your problem"></textarea>
                     </div>
                     <div className="formLower">
                         <Cta content="Talk to an Expert" icon="ri-speak-line" width="207px" bgColor="#F57C00" />
