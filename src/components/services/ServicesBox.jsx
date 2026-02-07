@@ -26,7 +26,7 @@ function ServicesBox({ icon, img, desc,classname="ntg" }) {
         <div className="pointers">
           {
           desc.items.map((item, i) => (
-            <span key={i}>• {item}</span>
+            <span key={i}> {item}</span>
           ))
           }
         </div>
