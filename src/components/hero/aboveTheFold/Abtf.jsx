@@ -2,6 +2,7 @@ import About from "../../about/About.jsx"
 import Contact from "../../contact/Contact.jsx"
 
 import Services from "../../services/Services.jsx"
+import Testinomials from "../../testinomials/Testinomials.jsx"
 import ClientTrust from "../../trust/ClientTrust.jsx"
 import LowerAbtf from "./LowerAbtf.jsx"
 import UpperAbtf from "./UpperAbtf.jsx"
@@ -26,6 +27,9 @@ function Abtf() {
 
             <div>
                 <About/>
+            </div>
+            <div>
+                <Testinomials/>
             </div>
             <div>
                 <Contact/>
