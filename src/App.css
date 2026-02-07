@@ -803,8 +803,9 @@ button {
   flex-direction: column;
   /* justify-content: space-between; */
 }
-.caller a{
+#caller{
   text-decoration: none;
+  color: white;
 }
 .scMed:nth-child(1){
   margin-left: 0;

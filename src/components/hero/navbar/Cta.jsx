@@ -44,11 +44,11 @@ function Cta({
                 onMouseEnter={() => setHover(true)}
                 onMouseLeave={() => setHover(false)}
             >
-                <a id="caller" href="tel:+919871760259" style={{textDecoration:"none",color:"black"}}>
+                <a id="caller" href="tel:+919871760259" style={{textDecoration:"none"}}>
                     {content}
                 </a>
                 <span>
-                    <i className={icon} style={{ fontSize: "25px", fontWeight: "400" }}></i>
+                    <i className={icon} style={{ fontSize: "25px", fontWeight: "400", color:"white" }}></i>
                 </span>
 
             </button>

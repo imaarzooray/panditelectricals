@@ -29,7 +29,7 @@ function Navbar() {
                     <Cta
                         content="Call Now"
                         bgColor="#F57C00"
-                        fontColor="FFFFFF"
+                        fontColor="#FFFFFF"
                         border="none" fontSize="20px"
                         fontStyle="bold"
                         height="50px"

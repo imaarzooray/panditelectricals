@@ -138,7 +138,7 @@ function Contact() {
                         <textarea name="" id="" resize="none" placeholder="Describe your problem"></textarea>
                     </div>
                     <div className="formLower">
-                        <Cta content="Talk to an Expert" icon="ri-speak-line" width="207px" bgColor="#F57C00" />
+                        <Cta content="Talk to an Expert" icon="ri-speak-line" width="207px" fontColor="white" bgColor="#F57C00" />
                     </div>
 
                 </form>
