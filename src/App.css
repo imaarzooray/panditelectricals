@@ -198,6 +198,25 @@ button {
   width: 60px;
 }
 
+.downloadBrochure{
+  color: white;
+  /* width: 200px; */
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 8px;
+  border: none;
+  text-decoration: none;
+  background-color: #131C1F;
+  padding: 10px 20px;
+}
+.brochureLabel{
+  /* color: green; */
+  padding: 0px 4px;
+}
+.downloadBrochure:hover{
+  background-color: #15282f;
+
+}
 .ctas {
 
   display: flex;
