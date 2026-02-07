@@ -32,6 +32,9 @@ function LowerAbtf() {
 
 
                     <span className="brands">
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770452975/Logo-2000x2000-Round_zfyzgh.png" alt="Cafe Delhi Height Image not displayed" />
+                    </span>
+                    <span className="brands">
                         <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294960/chilislogo_iwsze2.png" alt="Chili's" />
                     </span>
                     <span className="brands">
