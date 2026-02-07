@@ -204,6 +204,8 @@ button {
   cursor: pointer;
   font-size: 18px;
   border-radius: 8px;
+  display: flex;
+  justify-content: center;
   border: none;
   text-decoration: none;
   background-color: #131C1F;
@@ -1369,6 +1371,11 @@ form textarea {
 
 /* Small screens (mobiles) */
 @media (max-width: 768px) {
+  .information{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+  }
   .roll{
     /* border: 2px solid red; */
   }
