@@ -25,10 +25,7 @@ panditelect1096@gmail.com" />
                         <InfoCont iconClass="ri-service-bell-line" label="Service Area " informations="Delhi, Noida, Gurgaon, Faridabad, Ghaziabad [Delhi-NCR]" />
                     </div>
                 </div>
-                <div className="detailsInfo">
-                        {/* <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294918/shop_ybgrde.jpg" alt="" srcset="" /> */}
-                    
-                </div>
+           
             </div>
 
             <br />
@@ -61,13 +58,7 @@ panditelect1096@gmail.com" />
 
 
 
-                <div className="detailsInfo">
-                    
-
- {/* <img src={owner} alt=""  /> */}
-
-                    
-                </div>
+              
             </div>
         </div>
     )

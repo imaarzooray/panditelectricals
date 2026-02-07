@@ -541,16 +541,20 @@ button {
 .upperInformation {
   /* border: 2px solid green; */
   display: flex;
+  width: 50%;
   align-items: center;
   justify-content: space-around;
+  margin: 0px 10px;
 
 
-  /* width: 100%; */
+  width: 100%;
 }
 
 .information {
+  /* border: 2px solid red; */
   display: flex;
-  flex-direction: column;
+  align-items:flex-start;
+  flex-direction: row;
 }
 
 .minInfoHeader {
@@ -559,11 +563,7 @@ button {
   margin-bottom: 10px;
 }
 
-.detailsInfo {
-  display: flex;
-  width: 60%;
-  justify-content: flex-end;
-}
+
 
 .detailsInfo img {
   border-radius: 2px;
@@ -1007,30 +1007,35 @@ form textarea {
 
 /* trust */
 .whyTrustSection {
-  padding: 10px 0%;
+  padding: 0px 0%;
   background: #f6f8fa;
+  margin: 10px 0px;
   /* border: 2px solid red; */
 }
 
 .trustHeader {
   /* text-align: center; */
-  margin-bottom: 48px;
+  margin-bottom: 18px;
+  /* border: 2px solid red; */
+
 }
 
 .trustTagline {
   color: #283B40;
   font-weight: 600;
+  /* border: 2px solid red; */
   letter-spacing: 0.5px;
 }
 
 .trustHeader h2 {
   color: #010326;
   font-size: 36px;
-  margin-top: 8px;
+  /* margin-top: 8px; */
 }
 
 /* GRID */
 .trustGrid {
+  /* border: 2px solid red; */
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 28px;
