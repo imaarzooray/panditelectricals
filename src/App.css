@@ -622,20 +622,17 @@ button {
 }
 
 .contactLeft {
-  margin: 0px 100px 0px 0px;
+  margin: 0px 50px 0px 0px;
   display: flex;
   flex-direction: column;
 }
 
-.contactRight {
-  width: 50%;
-}
 
 .shortCaption {
   /* border: 2px solid red; */
   margin: 0px 0px 10px 0px;
   font-size: 16px;
-  color: #5B6B73;
+  color: black;
 }
 
 .shortPoints {
@@ -665,6 +662,9 @@ button {
 .socialMedia {
   margin-top: 40px;
   display: flex;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
   /* justify-content: space-between; */
 }
 .caller a{
@@ -675,15 +675,25 @@ button {
 }
 .scMed {
   /* border: 2px solid red; */
+  display: flex;
  
+}
+.scLabel{
+  /* border: 2px solid red; */
+}
+.scLabel span{
+  font-size: 20px;
+  font-weight: 500;
+}
+.scMedias{
+  /* border: 2px solid teal; */
+  display: flex;
 }
 .scMed:hover{
 
   color: white;
 }
-.scMed a{
-  
-}
+
 
 .scMed a {
   color: black;
@@ -692,12 +702,14 @@ button {
   border-radius: 10px;
   display: flex;
   justify-content: center;
-  padding: 4px 10px;
+  padding: 3px 13px;
   margin: 10px 20px;
+  /* gap:100px; */
   /* height: 80px; */
   align-items: center;
   /* width: 80px; */
   text-decoration: none;
+  transition-duration: 0.3s;
 }
 .scMed a:hover{
   color: white;
@@ -705,7 +717,7 @@ button {
 }
 
 .scMed a span i {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 /* Social Media Dropdown */

@@ -9,9 +9,10 @@ function Contact() {
 
     const socialLinks = [
         { link: "https://www.instagram.com/pandit.elect1096/", iconClass: "ri-instagram-line" },
-        { link: "https://www.facebook.com/profile.php?id=100009707116301", iconClass: "ri-facebook-line" },
-        { link: "https://www.youtube.com/@hemantpandit1857", iconClass: "ri-youtube-line" },
-        { link: "https://www.justdial.com/Noida/Pandit-Electricals-Near-Rajasthan-Bartan-Store-Noida-Sector-63/011PXX11-XX11-170103140023-M8F7_BZDET", iconClass: "ri-global-line" },
+        { link: "https://www.facebook.com/profile.php?id=100009707116301", 
+            iconClass: "ri-facebook-circle-fill" },
+        { link: "https://www.youtube.com/@hemantpandit1857", iconClass: "ri-youtube-fill" },
+        { link: "https://www.justdial.com/Noida/Pandit-Electricals-Near-Rajasthan-Bartan-Store-Noida-Sector-63/011PXX11-XX11-170103140023-M8F7_BZDET", iconClass: "ri-global-fill" },
         { link: "https://www.github.com/imaarzooray/", iconClass: "ri-github-fill" }
     ];
 
@@ -81,6 +82,11 @@ function Contact() {
                 </div>
 
                 <div className="socialMedia">
+                    <div className="scLabel">
+                        <span>Follow Us</span>
+                    </div>
+                    <div className="scMedias">
+
                     {socialLinks.map((social, index) => (
                         <ScMed
                             key={index}
@@ -88,6 +94,7 @@ function Contact() {
                             iconClass={social.iconClass}
                         />
                     ))}
+                    </div>
                 </div>
 
                 <div className="socialMediaDropdown">
