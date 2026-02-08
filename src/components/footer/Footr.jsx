@@ -77,12 +77,7 @@ function Footr() {
                 <div className="secLeft">
                     <span>&copy; 2025 Pandit Electricals. All rights reserved.</span>
                 </div>
-                <div className="secRight">
-                    <span>
-                        <span className="txt">Developed with love 💖 by </span>
-                        <span className="link"><a target="_blank" href="https://www.linkedin.com/in/imaarzooray/">imaarzooray</a></span>
-                    </span>
-                </div>
+               
             </div>
         </footer>
     )
