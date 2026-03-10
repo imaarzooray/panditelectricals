@@ -12,7 +12,7 @@ function Services() {
       "Focused on performance, safety, and long-term efficiency."
     ],
     items: [
-      "Motor winding (0.5–10 HP)",
+      "Motor winding",
       "APFC & power factor correction",
       "Panel repair & maintenance"
     ]
@@ -32,9 +32,9 @@ function Services() {
   },
   {
     icon: "ri-windy-line",
-    title: "Kitchen & Ventilation Systems",
+    title: "Kitchen",
     description: [
-      "Installation and servicing of commercial kitchen ventilation.",
+      "Servicing of commercial kitchen ventilation.",
       "Improving airflow, safety, and heat management."
     ],
     items: [
@@ -52,6 +52,8 @@ function Services() {
     ],
     items: [
       "Microwave repair",
+      "Washing Machine Repair",
+      "Geyser Repair",
       "Rapid toaster repair",
       "Electrical fault diagnosis"
     ]

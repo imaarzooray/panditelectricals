@@ -41,6 +41,10 @@ function LowerAbtf() {
                         <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294961/mcd_dujpdz.png" alt="McDonald's" />
                     </span>
                     <span className="brands">
+                        
+                        <img src="https://res.cloudinary.com/aarzooray/image/upload/v1773146143/id_Tpa9d08_1773146118817_eplyqb.jpg" alt="McDonald's" />
+                    </span>
+                    <span className="brands">
                         <img src="https://res.cloudinary.com/aarzooray/image/upload/v1770294961/kfc_h0zkyq.jpg" alt="KFC" />
                     </span>
                     <span className="brands">
